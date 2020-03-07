@@ -6,7 +6,11 @@ Password Guesser accepts a set of keywords, generate a few possible weak passwor
 
 Blogpost describing the importance of password guessing: https://medium.com/@ayman.abdul.kareem/the-art-of-password-guessing-19725a17afc2?sk=e23723ae4c959e09fc672b5f15fd112a
 
-#Usages:
-	python password_guesser.py mssql
-	python password_guesser.py mssql admin john
-	python password_guesser.py mysql "tomcat admin" "jboss admin" backup_user
+<b>Usages:</b>
+	python password_guesser.py mssql<br />
+	python password_guesser.py mssql admin john<br />
+	python password_guesser.py mysql "tomcat admin" "jboss admin" backup_user<br />
+	
+![Image description](https://github.com/imnkrm/password_guesser/blob/master/1.png)<br />
+![Image description](https://github.com/imnkrm/password_guesser/blob/master/2.png)<br />
+![Image description](https://github.com/imnkrm/password_guesser/blob/master/3.png)<br />
